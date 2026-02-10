@@ -1,0 +1,13 @@
+Clase 3 Controladores de versiones
+Son herramientas que nos sirven para poder llevar un registro de proyectos. Tienen un historial de cambios que compina cosas que hemos agregado, cosas que hemos eliminado y quien y cuando se hicieron los cambios.
+Nos permite usar a muchas personas para trabajar en un mismo proyecto
+Permiten que muchas personas trabajen simultáneamente
+Evitan perdidas por fallos de hardware
+Se configuran responsables de revisiones y calidad
+Ahí es donde vmos las versiones 1.0, 2.0,2.1(en la cual seguramente se hizo un ajuste para un fallo específico), 3.0 y asi sucesivamente
+Creamos nuestra cuenta en GITHUB y pudimos aprender como hacer el proceso para añadir los archivos a esta plataforma conectando la terminal GIT desde nuestra computadora
+Y anoté que estos son los comandos para ir añadiendo archivos
+git add README.md
+git commit -m "first commit"
+git push -u origin main
+Aun me cuesta entener que son el "-m" o el "-u" pero son cosas que se siguen investigando

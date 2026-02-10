@@ -1,0 +1,8 @@
+Clase 1 - ¿Qué es programar?
+Es indicarle a una computadora que hacer, creamos una serie de instrucciones que resuelven un problema. Generalmente representamos procesos ya existentes específicos para las computadoras.
+Ya que no entienden los idiomas como el español usamos algoritmos, estos son una representación sencilla del lenguaje de las computadoras. El código binario: 1 y 0.
+Estos funcionan porque representan el circuido apagado(0) y encendido(1).
+La memoria de una computadora esta conformada por 0 y 1
+¿Cómo se ve una memoria? nos enseño que se ven como 8 celdas, cada celda se pinta de rojo o verde
+El rojo representa el 0 y el verde el 1
+Con eso podemos interpretar el lenguaje ayudándonos del método ASCII en donde cada carácter tiene un numero especial y cada numero se puede representar en un patrón definido de 8 bits(0 o 1)

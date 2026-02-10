@@ -1,0 +1,5 @@
+Clase 2
+Pudimos ver las variables, estos son datos que pueden cambiar su valor, en JavaScript las usamos como "var" .
+Recordemos que en estás semanas estuvimos usando mucho los signos comparativos, lo usamos para la tarea extra en la cual tuvimos que usar valores de comparación con números al azar y números que elegíamos. también los usamos en la actividad principal donde comparábamos los datos ingresados con variables que ya tenían definido un valor
+También están las operaciones lógicas en donde usamos Y, O y NO para comparar datos. Luego, con estas comparaciones que hacemos según los datos que definimos o los datos que nos da el usuario, podemos usar IF, IF ELSE para realizar acciones según como deseemos comparar estos datos registrados. También podemos repetir cierta acción con WHILE hasta que se realicé una acción solicitada
+Personalmente me costó en la parte de la tarea pero tras una investigación se lograron usar los datos necesarios para llevarla a cabo.
